@@ -1,5 +1,8 @@
 ﻿using System;
-
+// Cole Dickson
+// IT112 
+// NOTES: Not sure if this was the cleanest way to have done it, but it works.
+// BEHAVIORS NOT IMPLEMENTED AND WHY: I don't believe I am missing anything.
 namespace Dickson_Inventory
 {
     class Program
